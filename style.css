@@ -302,12 +302,12 @@ body
 @media (max-width: 360px) {
 	.game_container{
 		margin-top: 20px;
-		height: 90%;
+		height: auto;
 		width: 100%;
 		
 	}
 	.game{
-		height: 50vmin;
+		height: auto;
 		width: 80%;
 		
 	}
